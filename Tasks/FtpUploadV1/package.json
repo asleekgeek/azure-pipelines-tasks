@@ -19,7 +19,7 @@
     "@types/q": "^1.0.7",
     "azure-pipelines-task-lib": "^5.0.0-preview.0",
     "ftp": "0.3.10",
-    "minimatch": "^3.0.4"
+    "minimatch": "^3.0.5"
   },
   "devDependencies": {
     "typescript": "4.0.2"
